@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidushi Parashar</h1>
 <h3 align="center">A passionate Data Analyst from India , also have some hands on experience on web development</h3>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Data Analyst **
 
 - 🌱 I’m currently learning **Data Analysis ,MERN**
 
