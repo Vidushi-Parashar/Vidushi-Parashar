@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidushi Parashar</h1>
+
 A **Data Analyst turned DevOps Enthusiast** passionate about automating workflows, optimizing CI/CD pipelines, and bridging the gap between **data operations and software delivery**.  
 
 💡 With hands-on experience in **Python, SQL, Power BI**, and growing expertise in **Jenkins, Docker, Kubernetes, and SonarQube**, I love building data-driven and automation-first solutions.  
